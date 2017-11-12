@@ -1,0 +1,11 @@
+{
+  "pathParameters": {
+    "email": "test@test.com"
+  },
+  "body": {
+    "email_address": "test@test.com",
+    "first_name": "Sathya",
+    "last_name": "Murthy",
+    "course_title": "AWS Lamda"
+  }
+}
